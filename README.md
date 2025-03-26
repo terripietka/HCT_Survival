@@ -11,9 +11,16 @@ A key feature of the dataset is its balanced racial representation, making it id
 - Rewards models with high accuracy and low variability across groups
 - Outputs scores ranging from perfect (1) to worst (0) with 0.5 representing a random prediction.
 
+## Biological Background
 
+HCT is a life-saving treatment used for patients with blood-related cancers and certain immune disorders.  The process involves replacing a patient's disease bone marrow with health stem cells.  
 
+Stem cells can be achieved via two different sources:  Allogeneic or Autologous.  
 
+- An autologous transplant uses patient derived stem cells which are transplanted after a high-dose chemotherapy treatment.  There is a low-risk of immune rejection or graft versus host disease since the patient donates their own stem cells.
+- Allogenic transplants utilize stem cells donated by a genetically matched donor.  This type of donation is most appropraite for certain diseases like leukemia and is associated with increased post-transplation event risks from immune complications and graft versus host disease.  The decision of which therapy to use depends on disease type, progression state, patient health and matched donor availability.  
+
+<div align="center"> <img src="https://github.com/user-attachments/assets/959ceff4-0866-4adb-b3e6-f25078e48ed4" alt="Autologous vs Allogeneic Transplant Diagram" width="300"/> </div>
 
 
 ## Project References
