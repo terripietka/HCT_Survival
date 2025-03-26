@@ -10,3 +10,12 @@ A key feature of the dataset is its balanced racial representation, making it id
 - Adjusts for racial stratification by calculating the c-index within each racial group
 - Rewards models with high accuracy and low variability across groups
 - Outputs scores ranging from perfect (1) to worst (0) with 0.5 representing a random prediction.
+
+
+
+
+
+
+## Project References
+
+Tushar Deshpande, Deniz Akdemir, Walter Reade, Ashley Chow, Maggie Demkin, and Yung-Tsi Bolon. CIBMTR - Equity in post-HCT Survival Predictions. https://kaggle.com/competitions/equity-post-HCT-survival-predictions. Kaggle.
